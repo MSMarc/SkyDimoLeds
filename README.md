@@ -32,5 +32,5 @@ Ideal para quienes buscan una forma rápida y ligera de **encender automáticame
    ```bash
    sc.exe create Skydimo binPath= "C:\ruta\completa\a\dist\skydimo.exe" start= auto
 6. Ejecuta el servicio
-  ```bash
+   ```bash
    sc.exe start Skydimo
