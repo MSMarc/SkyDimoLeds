@@ -1,4 +1,4 @@
-# ✨ SkyDimo LED Controller (Adalight)
+# ✨ Controlador SkyDimo LED (Adalight)
 
 Permite controlar las luces LED de **SkyDimo** directamente desde Python, **sin necesidad de instalar el software del fabricante**.
 Ideal para quienes buscan una forma rápida y ligera de **encender automáticamente sus LEDs al iniciar el PC**, usando un simple servicio de Windows.
