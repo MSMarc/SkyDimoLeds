@@ -1,12 +1,11 @@
 import serial
 import time
-import os
 from dotenv import load_dotenv
 
 load_dotenv()
 
 NUM_LEDS = 65
-PORT = 'COM3'
+PORT = 'COM8'
 BAUD_RATE = 115200
 
 ser = serial.Serial(PORT, BAUD_RATE)
